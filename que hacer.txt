@@ -1,0 +1,34 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>¿QUE HACER?</title>
+</head>
+
+<body bgcolor="#f4f0eb">
+<table width="100%" border="0">
+
+<tr bgcolor="#2a5a7b">
+<td colspan="3" style="background-image: url('imagenfondoo.jpg'); background-size: 100% 100%;">
+<br><br><br><br>
+<center>
+<font color="#f4f0eb" size="7" face="impact">
+<b>
+
+Q&nbsp;&nbsp;&nbsp;&nbsp;U&nbsp;&nbsp;&nbsp;&nbsp;É&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;E&nbsp;&nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;?
+
+</b>
+</font>
+<br><br>
+<font color="#f4f0eb" face="optima" size="5">
+Actividades en Vallarta
+</font>
+</center>
+  
+<br><br><br><br><br>
+</td>
+</tr>
+
+</table>
+
+</body>
+</html>
